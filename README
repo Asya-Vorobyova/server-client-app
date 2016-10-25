@@ -5,3 +5,4 @@ To run this application:
 2) Run server in one console: java -cp bin ixtens.my.serverclientapp.Server 2323 (or with other port).
 3) Run client application MyClient in another console: java -cp bin ixtens.my.serverclientapp.MyClient.
 Lalala
+LaLaLa
